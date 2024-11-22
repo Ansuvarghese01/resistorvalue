@@ -1,1 +1,1 @@
-# resistorvalue
+# resistorvaluecalculator
